@@ -25,4 +25,5 @@ public class MethodExercise {
     public static  int addTwoNumbers(int a, int b) {
         return a + b;
     }
+
 }
